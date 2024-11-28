@@ -11,3 +11,5 @@ Para resolver o problema, foi usado uma abordagem recursiva. O algoritmo criado 
 Esse processo é repetido até que todos os discos tenham sido movidos para
 a torre de destino. A cada etapa, os discos são transferidos de uma torre para outra,
 seguindo as regras de não colocar um disco maior em cima de um disco menor.
+
+Para executar basta informar a quantidade de discos.
